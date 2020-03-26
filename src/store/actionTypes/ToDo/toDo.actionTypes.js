@@ -1,0 +1,3 @@
+export const STORE_TASK = 'STORE_TASK';
+export const STORE_TASK_SUCCESS = 'STORE_TASK_SUCCESS';
+export const STORE_TASK_FAILED = 'STORE_TASK_FAILED';
